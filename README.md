@@ -44,7 +44,7 @@ Atualmente estou aprofundando meus conhecimentos em **React, Next.js, JavaScript
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,postgres,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,git,github,vscode,figma" />
 
 </div>
 
@@ -122,28 +122,6 @@ Projeto web com foco em identidade visual, interface e experiência do usuário.
 Projeto acadêmico desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas.
 
 `HTML` `CSS`
-
----
-
-<h2>୨ৎ github stats</h2>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marianaleite003&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=FF69B4&text_color=000000&icon_color=FF69B4&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaleite003&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=FF69B4&text_color=000000" />
-
-</div>
-
----
-
-<h2>♡ atividade</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marianaleite003&bg_color=ffffff&color=000000&line=ff69b4&point=000000&area=true&area_color=ffb6c1&hide_border=true" />
-
-</div>
 
 ---
 
